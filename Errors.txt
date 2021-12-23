@@ -1,0 +1,11 @@
+2021-12-23 18:02:46.811363
+--------------------------
+
+The Url provided isn't reachable: http://192.168.1.1//adnoc-wa1/MArtin
+The Url provided isn't reachable: http://192.168.1.1//adnoc-wa2/hesk
+The Url provided isn't reachable: http://192.168.1.1//adnoc-wa3/youssef
+The Url provided isn't reachable: http://192.168.1.1//adnoc-wa4/boda
+The Url provided isn't reachable: http://192.168.1.1//adnoc-wa5/
+The Url provided isn't reachable: http://192.168.1.1//adnoc-wa6/
+The Url provided isn't reachable: http://192.168.1.1//adnoc-wa7/
+The Url provided isn't reachable: http://192.168.1.1//adnoc-wa8/
