@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-from contextlib import nullcontext
 import requests
 import sys
 from time import sleep
